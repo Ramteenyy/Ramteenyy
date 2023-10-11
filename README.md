@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Ramteenyy
 - 👀 I’m interested in Programming & Gaming.
-- 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on ???
+- 🌱 I’m currently learning Python.
+- 💞️ I’m looking to collaborate on ???.
 - 📫 How to reach me Mailto: heidarzadehramteen@gmail.com
 
 <!---
